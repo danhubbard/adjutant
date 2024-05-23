@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="50px" viewBox="0 0 200 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>News Feed Post@1x</title>
+    <g id="News-Feed-Post" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="TypoGraphica" font-size="51" font-weight="normal" letter-spacing="-1.275">
+        <text id="adjutant." fill="#353535">
+            <tspan x="1" y="39">adjut</tspan>
+            <tspan x="115.32666" y="39" letter-spacing="0.294230769">an</tspan>
+            <tspan x="170.077719" y="39">t.</tspan>
+        </text>
+    </g>
+</svg>
